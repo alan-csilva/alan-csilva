@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **alan-csilva/alan-csilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,6 +20,10 @@ Bachelor in Actuarial Science and Statistics | Seeking opportunities in risk ana
 I'm a dedicated student pursuing degrees in Actuarial Science and Statistics at the Federal University of Rio de Janeiro, with a passion for exploring data and extracting meaningful insights. Throughout my studies, I've immersed myself in practical experiences and challenges that have allowed me to develop strong skills in risk analysis, statistical modeling, and advanced use of technological tools for data manipulation and interpretation.
 
 ### Featured Projects
+
+#### [Predicting Uber Fares]([link_do_seu_repositorio](https://github.com/alan-csilva/Uber-Fare-Prediction))
+#### [Classifying presence of volcanoes in Venus images](https://github.com/alan-csilva/Venus-Images-Classification)
+
 Classification and Regression using Machine Learning.
 Within my repository, you'll find projects that explore classification and regression techniques using machine learning. These projects showcase my interest and proficiency in applying algorithms to solve complex problems, utilizing libraries like Scikit-learn in Python.
 
