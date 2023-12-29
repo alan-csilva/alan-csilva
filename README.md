@@ -31,11 +31,11 @@ Within my repository, you'll find projects that explore classification and regre
 Currently engaged as an Intern in the Underwriting department at IRB (RE), where I apply my knowledge in assessing reinsurance risks and analyzing results, contributing to underwriting strategies and budgeting.
 
 ### Skills and Knowledge
-Data Analysis: Advanced command of the Microsoft Office suite and VBA, with a focus on statistical analysis and data visualization using Power BI, Python, and R.
-Database: Proficient in SQL for database management, extraction, and manipulation.
-Machine Learning: Implementation of regression and classification models, as demonstrated in my projects.
-Programming Languages: Proficiency in Python for data manipulation and analysis, as well as R for visualization and statistical analysis.
-Languages: Fluent in English (Cambridge English: Advanced - C1 Level).
+Data Analysis: Advanced command of the Microsoft Office suite and VBA, with a focus on statistical analysis and data visualization using Power BI, Python, and R.  
+Database: Proficient in SQL for database management, extraction, and manipulation.  
+Machine Learning: Implementation of regression and classification models, as demonstrated in my projects.  
+Programming Languages: Proficiency in Python for data manipulation and analysis, as well as R for visualization and statistical analysis.  
+Languages: Fluent in English (Cambridge English: Advanced - C1 Level).  
 
 ### Career Objective
 I'm seeking challenging opportunities in the field of risk analysis where I can apply my analytical skills and knowledge in statistical modeling to contribute to projects in insurance, reinsurance, and risk management.
